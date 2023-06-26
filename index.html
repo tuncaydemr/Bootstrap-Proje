@@ -76,13 +76,21 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore beatae necessitatibus aspernatur dolorum, magnam dolorem! Laborum omnis totam saepe quia.</p>
                         <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#join">Join Now</a>
                         <div class="modal fade" id="join">
-                            <div class="modal-dialog">
+                            <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <div class="modal-header">
                                         <h5 class="modal-title text-dark">Join Now</h5>
-                                        <button type="button" class="btn-close"></button>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
                                     </div>
-                                    <div class="modal-body"></div>
+                                    <div class="modal-body mx-3">
+                                        <p>Fill out this form</p>
+                                        <form>
+                                            <div class="mb-3">
+                                                <label for="name" class="form-label">Name</label>
+                                                <input type="text" id="name" class="form-control">
+                                            </div>
+                                        </form>
+                                    </div>
                                 </div>
                             </div>
                         </div>
