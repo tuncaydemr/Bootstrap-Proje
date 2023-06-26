@@ -1,5 +1,9 @@
 $font-color: white;
 
-.btn, .btn:hover {
+.btn {
     color: $font-color;
+
+    &:hover {
+        color: $font-color;
+    }
 }

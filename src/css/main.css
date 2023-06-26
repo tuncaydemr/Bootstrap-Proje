@@ -11858,6 +11858,9 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.btn, .btn:hover {
+.btn {
+  color: white;
+}
+.btn:hover {
   color: white;
 }
