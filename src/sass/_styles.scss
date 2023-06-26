@@ -1,14 +1,8 @@
 #service {
     i {
         font-size: 1.875rem;
-        border: .1875rem solid;
         width: 4.375rem;
         height: 4.375rem;
-        border-radius: 50%;
-
-        &:hover {
-            background: $primary;
-        }
     }
 }
 

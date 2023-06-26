@@ -11861,13 +11861,8 @@ textarea.form-control-lg {
 }
 #service i {
   font-size: 1.875rem;
-  border: 0.1875rem solid;
   width: 4.375rem;
   height: 4.375rem;
-  border-radius: 50%;
-}
-#service i:hover {
-  background: #0d6efd;
 }
 
 iframe {
