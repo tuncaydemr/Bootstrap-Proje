@@ -1,13 +1,3 @@
-$font-color: white;
-
-.btn {
-    color: $font-color;
-
-    &:hover {
-        color: $font-color;
-    }
-}
-
 #service {
     i {
         font-size: 1.875rem;
@@ -15,6 +5,10 @@ $font-color: white;
         width: 4.375rem;
         height: 4.375rem;
         border-radius: 50%;
+
+        &:hover {
+            background: $primary;
+        }
     }
 }
 
