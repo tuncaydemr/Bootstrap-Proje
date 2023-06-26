@@ -1,3 +1,1 @@
-$(() => {
-    $('[data-toggle="popover"]').popover();
-});
+
