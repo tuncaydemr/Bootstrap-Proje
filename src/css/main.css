@@ -11871,7 +11871,7 @@ iframe {
 }
 
 @media (max-width: 768px) {
-  #social-media, #email {
+  #social-media, #email, #phone {
     margin: 16px 0;
   }
 }
