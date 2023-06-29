@@ -10,3 +10,9 @@ iframe {
     width: 100%;
     height: 31.25rem;
 }
+
+@media (max-width: 768px) {
+    #social-media {
+        margin: 16px 0;
+    }
+}
