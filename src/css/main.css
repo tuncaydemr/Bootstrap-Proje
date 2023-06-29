@@ -11871,7 +11871,7 @@ iframe {
 }
 
 @media (max-width: 768px) {
-  #header_social-media, #header_email, #phone {
-    margin: 16px 0;
+  #header_social-media, #header_email, #header_phone {
+    margin: 10px 0;
   }
 }
